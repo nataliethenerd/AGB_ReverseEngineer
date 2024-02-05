@@ -2,6 +2,8 @@
 This is a reverse engineered board by me, Natalie the Nerd.
 I made this to learn and fix some super corroded boards I have.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L12T33R)
+
 ![Front](https://github.com/nataliethenerd/AGB-CPU-03/blob/de6742d42ac1694e8aa08d66633b534674495be9/frontgba.png)
 
 ![Back](https://github.com/nataliethenerd/AGB-CPU-03/blob/de6742d42ac1694e8aa08d66633b534674495be9/backgba.png) 
