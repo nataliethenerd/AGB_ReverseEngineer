@@ -27,6 +27,8 @@ FEB 2024 UPDATE:
 # PCBWay order link
 (https://www.pcbway.com/project/shareproject/AGB_CPU_03_board_0f63b83c.html)
 
+[iBom](https://nataliethenerd.github.io/agb.html)
+
 ORDER AT 1mm and ENIG
 
 ### Follow me!
