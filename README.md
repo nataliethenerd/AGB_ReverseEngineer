@@ -8,9 +8,6 @@ I made this to learn and fix some super corroded boards I have.
 
 ![Back](https://github.com/nataliethenerd/AGB-CPU-03/blob/de6742d42ac1694e8aa08d66633b534674495be9/backgba.png) 
 
-FEB 2024 UPDATE:
-- added kicad schematic (pdf and files)
-- added HD copper scans
 
 23.10.2023 UPDATE: 
 - I added a kicad file for the outline of the GBA board only. Feel free to use this as the base of any of your projects for e.g. a Raspberry Pi, ESP32 etc.
