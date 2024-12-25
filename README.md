@@ -13,6 +13,8 @@ I made this to learn and fix some super corroded boards I have.
 - I added a kicad file for the outline of the GBA board only. Feel free to use this as the base of any of your projects for e.g. a Raspberry Pi, ESP32 etc.
 - added gerbers
 
+While I have made multiple boards using the schematics, there may be some inaccuracies with values and layout. I am a hobbyist, not an electrical engineer at Nintendo
+
 ### *PLEASE read the licence. If you are an a$$ - you are are actively responsible for people in the Game Boy community never wanting to share things. You are the selfish one* ###
 
 ### Shout out to:
